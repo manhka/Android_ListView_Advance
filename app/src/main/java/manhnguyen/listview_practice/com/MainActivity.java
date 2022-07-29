@@ -27,6 +27,12 @@ public class MainActivity extends AppCompatActivity {
         studentArrayList.add(new Student("A", "12A1", R.drawable.minions8));
         studentArrayList.add(new Student("B", "12A2", R.drawable.minions5));
         studentArrayList.add(new Student("C", "12A3", R.drawable.minions6));
+        studentArrayList.add(new Student("D", "12A4", R.drawable.minions7)); studentArrayList.add(new Student("A", "12A1", R.drawable.minions8));
+        studentArrayList.add(new Student("B", "12A2", R.drawable.minions5));
+        studentArrayList.add(new Student("C", "12A3", R.drawable.minions6));
+        studentArrayList.add(new Student("D", "12A4", R.drawable.minions7)); studentArrayList.add(new Student("A", "12A1", R.drawable.minions8));
+        studentArrayList.add(new Student("B", "12A2", R.drawable.minions5));
+        studentArrayList.add(new Student("C", "12A3", R.drawable.minions6));
         studentArrayList.add(new Student("D", "12A4", R.drawable.minions7));
     }
 }
